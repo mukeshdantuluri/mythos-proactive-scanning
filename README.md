@@ -1,5 +1,12 @@
 # mythos-proactive-scanning
-This is a defensive project where mythos preview is not available and we can proactively use these prompts and fix vulnerabilities using opus models up to a certain extent.
+
+**Mythos** (Claude Mythos Preview) is an advanced, security-focused AI model developed by Anthropic, capable of performing complex cybersecurity tasks such as autonomously analyzing massive codebases and identifying zero-day vulnerabilities. 
+
+**Project Glasswing** is Anthropic's major cybersecurity initiative and consortium that leverages the Mythos model to help secure critical global software infrastructure.
+
+**Why is Mythos only in Preview?** Because of its profound dual-use capabilities—it possesses advanced coding and reasoning skills that could be misused for offensive cyberattacks if not tightly controlled—Mythos is currently kept in a restricted preview program. Access is limited to a consortium of vetted partners to manage the risks associated with such powerful frontier AI.
+
+**How this repository helps:** For individuals and organizations that do not have access to the exclusive Mythos Preview, this repository serves as a defensive alternative. It provides a curated library of adversarial security prompts designed to be used with publicly available models like Claude Opus. By using this structured methodology, you can proactively audit your codebase, map attack surfaces, and systematically patch vulnerabilities, bringing advanced AI security scanning to those outside the Glasswing consortium.
 
 
 # Security Audit Prompt Library — Master Index
